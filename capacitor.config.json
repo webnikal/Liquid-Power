@@ -1,0 +1,7 @@
+{
+  "appId": "com.liquidpower.game",
+  "appName": "Liquid Power",
+  "webDir": "www",
+  "backgroundColor": "#03060d",
+  "android": { "allowMixedContent": false }
+}
